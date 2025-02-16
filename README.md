@@ -35,7 +35,7 @@ Bringing together **robotics, AI, and LAA architectures** to develop an intellig
  ┃ ┣ 📁 Robots
  ┃ ┃ ┣ 🌶️🤖 Pepper
  ┃ ┃ ┣ 🤏🤖 NAO
- ┃ ┃ ┗ 🦾🤖 UnitreeG1
+ ┃ ┃ ┗ 🦾🤖 Unitree G1
  ┣ 📁 src (Code goes here!)
  ┗ README.md
 ```
