@@ -4,6 +4,10 @@ I've found various Issues in working with NAO, for one it is too small! It can d
 
 Another issue is walking in general! The [simulation](https://github.com/ros-naoqi/nao_virtual) i found for NAO does not include walking which is a huge issue when it comes to it getting around; WHICH in that note, it's far too slow! even if i get the simulated NAO walking it would take it too long to get anywhere and once it's there interacting with objects it's not an option. Talking with people and recognizing gestures and faces is also very hard because of the size.
 
+At this point i'm working on simulation with ROS Noetic, so i made a fork from the original with instructions on how to run and some changes:
+- [nao_virtual_noetic](https://github.com/dcuevasa/nao_virtual_noetic)
+- [nao_robot_noetic](https://github.com/dcuevasa/nao_robot_noetic)
+
 ## Related links:
 - https://github.com/ros-naoqi/naoqi_bridge
 - https://github.com/ros-naoqi/nao_virtual
