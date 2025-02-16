@@ -1,23 +1,52 @@
-# LLM-Robot-Agents
-The research for my undergraduate Research Project/Thesis
+# 🤖 Welcome to the GitHub Repository of **LLM-Robot-Agents**!  
 
+<br/>
 
-## Weekly Thesis Schedule
+<img src="https://github.com/user-attachments/assets/banner.png" alt="Project Banner" width="75%">
 
-| **Week**       | **Milestone**                                                                 |
-|----------------|-------------------------------------------------------------------------------|
-| Feb 16-22      | Review the existing LAA architecture.                                         |
-| Feb 23-29      | Define technical requirements and constraints for implementing the LAA architecture in Pepper. |
-| Mar 1-7        | Begin implementing LAA in Pepper with basic code generation and execution.    |
-| Mar 8-14       | Conduct initial testing of Pepper’s LAA-based task execution.                |
-| Mar 15-21      | Address any identified issues and refine.                                     |
-| Mar 22-28      | Set up Pepper’s simulation environment in Gazebo.                             |
-| Mar 29-Apr 4   | Implement and test LAA execution in Gazebo simulation.                        |
-| Apr 5-11       | Develop automated task generation and LAA execution.                          |
-| Apr 12-18      | Test the automated task generation with Pepper in simulation.                |
-| Apr 19-25      | Collect and analyze performance metrics from automated tests.                 |
-| Apr 26-May 2   | Begin adapting the architecture for NAO and Unitree G1 robots in simulation. |
-| May 3-9        | Conduct initial tests on NAO and Unitree G1 to assess compatibility.         |
-| May 10-16      | Compare performance across different robotic platforms and refine architecture. |
-| May 17-23      | Prepare documentation, technical report, and finalize implementation details. |
-| May 24-31      | Submit thesis.                                                                |
+<br/><br/>
+
+This repository is home to the **LLM-Robot-Agents** (name still TBD? 🤔), where **robots and AI join forces** for a future of better, more interactive autonomy. 🚀  
+
+This is the repository of my undergraduate Research Project/Thesis for the [FLAGlab Research Group](https://flaglab.github.io/) from 🐐 Universidad de los Andes 🐐 in Colombia
+
+🦾 **What’s the goal?**  
+Bringing together **robotics, AI, and LAA architectures** to develop an intelligent system that makes robots smarter, more adaptive, and ready to tackle real-world challenges.  
+
+📌 **What’s inside?**  
+- **Documentation 📖**: Everything you need to know about how this project works, including **Pepper, NAO, and Unitree G1** integrations.  
+- **Code 🛠️**: The magic that powers our agents.  
+- **Reports 📑**: Progress updates, findings, and analysis from our research journey.  
+
+## 🌟 Project Highlights  
+✨ **LAA Integration** – Making robots think smarter, not harder.  
+✨ **Cooperative Agents** – Robots teaming up like never before.  
+✨ **Code Generation** – Let AI write some of the code for us.  
+
+## 📂 Repository Structure  
+```plaintext
+📦 Thesis-Repo
+ ┣ 📁 Documentation
+ ┃ ┣ 📁 Chosen_LAA
+ ┃ ┣ 📁 Code_generation
+ ┃ ┣ 📁 Cooperative_Agents
+ ┃ ┣ 📁 Other_LAAs
+ ┃ ┣ 📁 Reports
+ ┃ ┣ 📁 Robots
+ ┃ ┃ ┣ 🌶️🤖 Pepper
+ ┃ ┃ ┣ 🤏🤖 NAO
+ ┃ ┃ ┗ 🦾🤖 UnitreeG1
+ ┣ 📁 src (Code goes here!)
+ ┗ README.md
+```
+## 🚀 Get Started  
+Want to dive in? Check out the **Documentation** folder to learn more, or explore the **Code** for hands-on fun.  
+
+📝 P.S. Each folder has a **Notes.md** file with extra insights and thoughts along the way!  
+
+---
+
+## 🔗 Related Links:  
+- https://github.com/SinfonIAUniandes
+- https://flaglab.github.io/
+- https://github.com/Cooperative-IA/CooperativeGPT
