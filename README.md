@@ -1,9 +1,9 @@
 # 🤖 Welcome to the GitHub Repository of **LLM-Robot-Agents**!  
 
 <br/>
-
-<img src="https://github.com/user-attachments/assets/banner.png" alt="Project Banner" width="75%">
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/13f2d1b8-b06b-41e4-8030-ec7e0eb12ab4" alt="Project Banner" width="50%">
+</p>
 <br/><br/>
 
 This repository is home to the **LLM-Robot-Agents** (name still TBD? 🤔), where **robots and AI join forces** for a future of better, more interactive autonomy. 🚀  
