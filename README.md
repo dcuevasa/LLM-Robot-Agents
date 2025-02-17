@@ -15,7 +15,6 @@ Bringing together **robotics, AI, and LAA architectures** to develop an intellig
 
 📌 **What’s inside?**  
 - **Documentation 📖**: Everything you need to know about how this project works, including **Pepper, NAO, and Unitree G1** integrations.  
-- **Code 🛠️**: The magic that powers our agents.  
 - **Reports 📑**: Progress updates, findings, and analysis from our research journey.  
 
 ## 🌟 Project Highlights  
@@ -36,11 +35,10 @@ Bringing together **robotics, AI, and LAA architectures** to develop an intellig
  ┃ ┃ ┣ 🌶️🤖 Pepper
  ┃ ┃ ┣ 🤏🤖 NAO
  ┃ ┃ ┗ 🦾🤖 Unitree G1
- ┣ 📁 src (Code goes here!)
  ┗ README.md
 ```
 ## 🚀 Get Started  
-Want to dive in? Check out the **Documentation** folder to learn more, or explore the **Code** for hands-on fun.  
+Want to dive in? Check out the **Documentation** folder to learn more, or explore the [Code](https://github.com/dcuevasa/CooperativeGPT-ROS) for hands-on fun.  
 
 📝 P.S. Each folder has a **Notes.md** file with extra insights and thoughts along the way!  
 
