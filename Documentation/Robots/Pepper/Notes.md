@@ -8,4 +8,8 @@ So far only issue is the robot trembles like crazy and it doesn't work properly 
 ![image](https://github.com/user-attachments/assets/57d8b6ca-a5b3-4f63-b2dc-b517498d081b)
 My current worries are in working with more than one robot.
 
+# Technical Requirements for LAA Integration on Pepper
+As of the moment  writing this (And for the forseable future), our Pepper cannot manipulate and grab objects by themselves, so the robot is going to ask for the object to be handed to them instead of taking it.
+Another note is that the implementation is going to rely heavily in abstractions for Navigation (Go from place A to B) which implies A fully mapped environment with predefined places and routes to navigate which the robot has to be familiar with. 
+
 ## Related links:
